@@ -73,6 +73,7 @@
     "predeploy:docs": "npm run build:docs",
     "deploy:docs": "gh-pages -d build"
   },
+  "homepage": "http://jiazhenghao.github.io/reusable-react-components/",
   "eslintConfig": {
     "extends": "react-app"
   },
