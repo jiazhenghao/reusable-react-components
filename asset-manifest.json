@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7d2544c.chunk.css",
-    "main.js": "/static/js/main.f07e1f97.chunk.js",
-    "main.js.map": "/static/js/main.f07e1f97.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4fb116d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4fb116d7.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.7e2f4ce4.chunk.js": "/static/js/2.7e2f4ce4.chunk.js",
-    "static/js/2.7e2f4ce4.chunk.js.map": "/static/js/2.7e2f4ce4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.51f54306f3ea03dc76f0aa6fe802ff22.js": "/precache-manifest.51f54306f3ea03dc76f0aa6fe802ff22.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.b7d2544c.chunk.css.map": "/static/css/main.b7d2544c.chunk.css.map"
+    "main.css": "/reusable-react-components/static/css/main.b7d2544c.chunk.css",
+    "main.js": "/reusable-react-components/static/js/main.420ac111.chunk.js",
+    "main.js.map": "/reusable-react-components/static/js/main.420ac111.chunk.js.map",
+    "runtime-main.js": "/reusable-react-components/static/js/runtime-main.eb4366c5.js",
+    "runtime-main.js.map": "/reusable-react-components/static/js/runtime-main.eb4366c5.js.map",
+    "static/css/2.52738377.chunk.css": "/reusable-react-components/static/css/2.52738377.chunk.css",
+    "static/js/2.a4d49b23.chunk.js": "/reusable-react-components/static/js/2.a4d49b23.chunk.js",
+    "static/js/2.a4d49b23.chunk.js.map": "/reusable-react-components/static/js/2.a4d49b23.chunk.js.map",
+    "index.html": "/reusable-react-components/index.html",
+    "precache-manifest.dfaa1698fb7fd7c54d2a535fb7cab628.js": "/reusable-react-components/precache-manifest.dfaa1698fb7fd7c54d2a535fb7cab628.js",
+    "service-worker.js": "/reusable-react-components/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/reusable-react-components/static/css/2.52738377.chunk.css.map",
+    "static/css/main.b7d2544c.chunk.css.map": "/reusable-react-components/static/css/main.b7d2544c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fb116d7.js",
+    "static/js/runtime-main.eb4366c5.js",
     "static/css/2.52738377.chunk.css",
-    "static/js/2.7e2f4ce4.chunk.js",
+    "static/js/2.a4d49b23.chunk.js",
     "static/css/main.b7d2544c.chunk.css",
-    "static/js/main.f07e1f97.chunk.js"
+    "static/js/main.420ac111.chunk.js"
   ]
 }
