@@ -5,7 +5,7 @@ A library of React components.
 ## Install
 
 ```
-npm install ps-react
+npm install reusable-react-components
 ```
 
 ## Docs
